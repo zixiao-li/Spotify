@@ -1,6 +1,5 @@
 # Spotify Notebook
-This is Python section of the capstone on Spotify, mainly to explore data analysis techniques and presentation style with python.  
-This serves to be a basis for the dashboards created.
+This python data analysis project focuses on analyzing Spotify's vast collection of song data to gain insights into the music industry and user listening behavior. The project involves cleaning large amounts of data, including song features such as tempo, key, and danceability. Numpy and various libraries will be used to identify patterns and trends in the data. The findings from this analysis will provide valuable information for music industry professionals, artists, and Spotify itself to make informed decisions about the future of music and user experience.
 
 ## Intoduction
 This is a data visualization and analysis done with python and jupyter notbook in the file named **Spotify_Final.ipynb**
